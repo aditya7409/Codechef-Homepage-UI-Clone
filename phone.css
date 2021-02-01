@@ -1,0 +1,48 @@
+#imag{
+    align-self: center;
+    width: 70px;
+    padding: 0px;
+}
+#log{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+#mid{
+    width: 154px;
+    padding: 0px;
+    align-self: center;
+}
+#user{
+    height: 19px;
+    width: 55px;
+}
+#pass{
+    height: 19px;
+    width: 55px;
+}
+#btn{
+    padding: 0px;
+    height: 21px;
+    width: 30px;
+    margin-left: 1%;
+    font-size: 6px;
+}
+#login{
+    padding: 0px;
+    height: 21px;
+    width: 30px;
+    margin-left: 1%;
+    font-size: 6px;
+}
+#right{
+    width: 50px;
+    padding: 0px;
+}
+i{
+    font-size: 15px;
+}
+#header{
+   width: 133%;
+   padding: 0px;
+}

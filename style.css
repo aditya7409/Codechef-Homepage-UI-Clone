@@ -1,0 +1,21 @@
+i{
+    font-size: 2rem;
+}
+#log{
+    width: 45%;
+    float: right;
+    margin-top: 14px;
+    margin-right: 26%;
+}
+#user{
+    width: 41%;
+}
+#pass{
+    width: 37%;
+}
+#btn{
+    margin-left: 1%;
+}
+#right{
+    align-self: center;
+}
